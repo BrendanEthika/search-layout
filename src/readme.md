@@ -1,12 +1,4 @@
-github profile markdown generator logo
-Github Profile README Generator
- Star this repo 1401
- Fork on Github 168
- back to edit
- copy-markdown
- download
- preview
-<h1 align="center">Hi there �, I'm Brendan</h1>
+<h1 align="center">Hi there, I'm Brendan</h1>
 <h3 align="center">A passionate full-stack developer from Lake Forest, CA</h3>
 
 - � I’m currently working on a **Mobile App for Ethika**
